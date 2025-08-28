@@ -1,0 +1,105 @@
+.MediumHead{
+  width: 100%;
+  height: 70px;
+  height: 70px;
+  background-color:#F7F4ED ;
+  border-bottom: 1.5px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+}
+.mhWrap{
+  display: flex;
+  align-items: center;
+  width: 90%;
+  height: 90%;
+  /* background-color: ; */
+}
+body{
+  background-color: #F7F4ED;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+.mlWrap{
+  width: 65%;
+  /* background-color: black; */
+}
+.mlwrap2{
+  /* background-color: red; */
+  width: 35%;  
+  height: 100%;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+
+}
+.multiext{
+  display: flex;
+  width: 70%;
+  /* background-color: blue; */
+  gap: 20px;
+  cursor: pointer;
+  font-size: 16px;
+
+}
+.mediumLogo{
+  width: 120px;
+  height: 40px;
+  object-fit: contain;
+  object-position: center;
+}
+.main{
+  margin-top: 71px;
+  /* background-color: red; */
+  width: 100%;
+  height: 540px;
+  border-bottom: 1.5px solid black;
+}
+.mainLeft{
+  width: 65%;
+  height: 99%;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.mainRight{
+  width: 35%;
+  /* background-color: black; */
+  height: 99%;
+  overflow: hidden;
+  display: flex;
+ justify-content: flex-end;
+}
+.mleft2{
+  /* width: 85%; */
+  height: 87%;
+  /* background-color: aqua; */
+}
+.main{
+  display:flex
+}
+.bgimg{
+object-fit: contain;
+width: 400px;
+/* margin: ; */
+}
+.mainLeft{
+  
+}
+.footer{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  color: #6B6B6B;
+  cursor: pointer;
+  font-size: 14px;
+}
